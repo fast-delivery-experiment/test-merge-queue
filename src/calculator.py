@@ -1,4 +1,4 @@
-TAX_RATE = 0.10
+TAX_RATE = 0.08
 
 
 def calculate_price(base_price: int) -> int:
